@@ -14,7 +14,7 @@ function App() {
         <input>
         </input>
   <ReCAPTCHA
-        sitekey="6LfiEeApAAAAAF4ii2wb09NvzxsZwuu6z4MCKvFi"
+        sitekey="6LdyEuApAAAAAKxJmUMz9Z2WMHKl4FBatOp4Xh1S"
           onChange={(val)=>{setTest(val)}}
         /> 
    
